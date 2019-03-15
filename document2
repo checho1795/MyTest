@@ -1,0 +1,5 @@
+#configuracion para cambiar el nombre de host
+
+
+sudo hostname MySwitchCumulus 
+
